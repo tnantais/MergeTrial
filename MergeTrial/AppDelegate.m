@@ -12,7 +12,7 @@
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
-    // MergeTrial2 conflicts.
+    // Tom made this change
 }
 
 @end
