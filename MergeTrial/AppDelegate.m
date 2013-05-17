@@ -12,7 +12,7 @@
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
-    // Tom made this change
+    //MergeTrial2
 }
 
 @end
