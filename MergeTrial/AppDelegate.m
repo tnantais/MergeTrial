@@ -12,7 +12,7 @@
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
-    // MergeTrial3
+    // MergeTrial5
 }
 
 @end
